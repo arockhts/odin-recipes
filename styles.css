@@ -1,0 +1,22 @@
+h1 {
+    background: lightcoral;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    background: rgb(146, 224, 224);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+li {
+    font-style: italic;
+}
+
+.foodpic {
+    width: 450px;
+    height: auto; 
+}
